@@ -1,0 +1,11 @@
+Refrences 
+
+[1] Locke, Benji L. "How To Identify Patterns in Time Series Data: Time Series Analysis."Stat Soft, 6 May 2017, www.statsoft.com/textbook/time-series-analysis. Accessed 3 Dec. 2018.
+
+[2] Williams, Michelle J. "A Beginner's Guide to LSTMs and Recurrent Neural Networks."Sky Mind AI, 12 Apr. 2015, skymind.ai/wiki/lstm. Accessed 9 Dec. 2018.
+
+[3] Hayashi, Hideaki J. "Is Prophet Really Better than ARIMA for Forecasting Time Series Data?."Learn Data Science, 17 Oct. 2017, blog.exploratory.io/is-prophet-better-than-arima-for-forecasting-time-series-fa9ae08a5851. Accessed 3 Dec. 2018.
+
+[4] Singh, Aishwarya W. "A Complete Tutorial on Time Series Modeling."Analytics Vidhya, 25 Oct. 2018, www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/. Accessed 5 Dec. 2018.
+
+[5] Brownlee, Jason B. "LSTM Model Architecture for Rare Event Time Series Forecasting."Machine Learning Mastery, 2 Nov. 2018, machinelearningmastery.com/lstm-model-architecture-for-rare-event-time-series-forecasting/. Accessed 4 Dec. 2018.
